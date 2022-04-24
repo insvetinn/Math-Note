@@ -1,2 +1,3 @@
 # Math-Note
-Math note.
+
+It's a math note repository. 
